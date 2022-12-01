@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidPresentationDemo</string>
+    <string name="presentation">Currently is the secondary screen page</string>
+</resources>
